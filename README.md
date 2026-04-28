@@ -53,6 +53,7 @@ This project is an interactive data visualization dashboard built using Tableau 
 ##  Files Included
 * covid-dashboard.twbx
 * covid-dashboard.png
+* README.md
   
 ##  How to Use
 1. Download the `.twbx` file
